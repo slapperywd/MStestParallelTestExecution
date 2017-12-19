@@ -15,4 +15,4 @@ In previous version you could create  ```name.runSettings``` with the following 
 
 # One moment to be mentioned
 Unfortunately only tests located in different projects (DLLs) can be run concurrently.
-There is no support to run your in paralell within the same project.
+There is no support to run your tests in paralell within the same project.
