@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MStestParallelTestExecution", "MStestParallelTestExecution\MStestParallelTestExecution.csproj", "{55753E64-FAF0-41E8-BEB9-9128E15F0FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MStestParallelTestExecution2", "MStestParallelTestExecution2\MStestParallelTestExecution2.csproj", "{AF02F651-4203-4422-82D7-F14DD07F40CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55753E64-FAF0-41E8-BEB9-9128E15F0FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55753E64-FAF0-41E8-BEB9-9128E15F0FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55753E64-FAF0-41E8-BEB9-9128E15F0FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55753E64-FAF0-41E8-BEB9-9128E15F0FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF02F651-4203-4422-82D7-F14DD07F40CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF02F651-4203-4422-82D7-F14DD07F40CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF02F651-4203-4422-82D7-F14DD07F40CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF02F651-4203-4422-82D7-F14DD07F40CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF03B684-D98B-4235-A42B-CE29A67B474E}
+	EndGlobalSection
+EndGlobal

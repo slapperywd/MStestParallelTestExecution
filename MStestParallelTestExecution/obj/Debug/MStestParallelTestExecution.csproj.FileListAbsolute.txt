@@ -1,0 +1,16 @@
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\MStestParallelTestExecution.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\MStestParallelTestExecution.pdb
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\WebDriver.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\WebDriver.Support.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\WebDriver.xml
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\bin\Debug\WebDriver.Support.xml
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\obj\Debug\MStestParallelTestExecution.csproj.CoreCompileInputs.cache
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\obj\Debug\MStestParallelTestExecution.dll
+c:\users\siarhei_mahlysh\source\repos\MStestParallelTestExecution\MStestParallelTestExecution\obj\Debug\MStestParallelTestExecution.pdb
