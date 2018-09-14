@@ -9,10 +9,6 @@ namespace MStestParallelTestExecution
     [TestClass]
     public class UnitTest1
     {
-
-
-
-
         //[TestMethod]
         //public void TestMethod1()
         //{
@@ -41,13 +37,10 @@ namespace MStestParallelTestExecution
             Thread.Sleep(3000);
         }
 
-
         [TestMethod]
         public void TestMethod3()
         {
             Thread.Sleep(3000);
         }
-
-
     }
 }
